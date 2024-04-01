@@ -68,7 +68,7 @@ In this project, a digital alarm clock using an Arduino microcontroller was buil
 <b> Project: - [Embedded Systems Programming](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> Library Database Management System </b> <br/>
-_October 2021 - January 2022_
+_October 2021 - January 2022_ <br/>
 Library Management System is a credible, efficient system for handling large amounts and multiple types of data which provides quick access to safe information. In this project, we designed and implemented an E-R diagram, a database schema diagram, create table statements, insert into statements, and sql queries. <br/>
 
 <b> Skills: </b> _SQL_ <br/>
@@ -76,7 +76,7 @@ Library Management System is a credible, efficient system for handling large amo
 <b> Project: - [Database Management Systems](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> Question-Answering System </b> <br/>
-_October 2021 - January 2022_
+_October 2021 - January 2022_ <br/>
 In this project, we implemented a simple question answering algorithm with C++. There are 3 different files, questions are in the question.txt file, the_truman_show_script.txt file is the text we are searching the answers for, and an answers.txt file which includes the answers of the questions. All questions have answers. The average speed of this algorithm is between 20 – 50 milliseconds. There are three main important functions that includes string matching methods and the complexity. <br/>
 
 <b> Skills: </b> _C++_ <br/>
@@ -84,7 +84,7 @@ In this project, we implemented a simple question answering algorithm with C++. 
 <b> Project: - [Algorithm Analysis](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> Reader - Writer Problem </b> <br/>
-_October 2021 - January 2022_
+_October 2021 - January 2022_ <br/>
 A solution to readers-writers problem in which several processes (readers and writers) are trying to access shared variables. If two readers access the shared data simultaneously, no adverse effects will result, hence, they are allowed to access. However, if a writer and some other process (either a reader or a writer) access the data simultaneously, chaos may ensue. To ensure that these difficulties do not arise, we require that the writers have exclusive access to the shared data while writing to the data. <br/>
 
 <b> Skills: </b> _Java_ <br/>
@@ -92,7 +92,7 @@ A solution to readers-writers problem in which several processes (readers and wr
 <b> Project: - [Data](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> P2P File Sharing Application </b> <br/>
-_April 2021 - May 2021_
+_April 2021 - May 2021_ <br/>
 The project is about designing and implementing a peer-to-peer file sharing application with Python 3. There are four processes: Chunk_Announcer which connects to the Local Area Network,every peer starts to periodically broadcast the list of all files they have. Chunk_Discovery after connecting to the LAN, every node also starts listening for peers announcements. Upon hearing an announcement, the contents are stored in a local dictionary of “which users have which files”. Chunk_Downloader , in this process the end user specifies a content to download, and the downloading process looks up its local dictionary to see which users have the chunks of that content. Then it launches TCP sessions with the users that hold subparts of the requested file, to download all subparts of that file. and lastly Chunk_Uploader will receive the requested content via TCP connection and it will be downloaded both as chunks and as a merged file. Thanks to this project, i have a better understanding of how a network application operates and what are the technologies behind it. <br/>
 
 <b> Skills: </b> _Python_ <br/>
@@ -100,7 +100,7 @@ The project is about designing and implementing a peer-to-peer file sharing appl
 <b> Project: - [Computer Networks](https://github.com/yasemxn/peer2peer) </b> <br/>
 
 <b> Space War Game </b> <br/>
-_April 2021 - May 2021_
+_April 2021 - May 2021_ <br/>
 
 In this project, we implemented a simple JAVA game with the following scenario: You must protect the world from alien invasion. You have a spaceship, and you need hit aliens’ ships but there is a barricade for protect to aliens. Hitting all the alien results in completing the level and going to the next. Angle affect your shoot. There are 3 levels to complete. <br/>
 
@@ -117,7 +117,7 @@ An C++ console application which reads files from a document and finds top 10 fr
 <b> Project: - [Data Structures](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> Health Maintenance System</b> <br/>
-_October 2020 - January 2021_
+_October 2020 - January 2021_ <br/>
 This project is a computer system that will be used in the hospitals. HealthCare is a practice management software for opticians, optometrist and ophthalmologist, which leads to smooth working of eye care organization. “Health Care Maintenance” provides automated case management, patient scheduling, diagnosis notes, electronic mail integration to remind patient about their appointment, electronic revisit letter with paperless environment, Point of Sales (POS), inventory for spectacles, lenses, and sundries and unlimited custom and pre-built reports.
 
 <b> Skills: </b> __ <br/>
@@ -125,7 +125,7 @@ This project is a computer system that will be used in the hospitals. HealthCare
 <b> Project: - [Software Development](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> Smashing Four Simulator </b> <br/>
-_March 2020 - June 2020_
+_March 2020 - June 2020_ <br/>
 Smashing Four is an online, card collectable, PvP multiplayer game where you build a squad of four smashing heroes and battle against other players in spectacular arenas. In a combat, up to 4 units fight
 with another up to 4 units in a turn-based fashion. The combat is divided into discrete rounds, and in each round, one unit of each team has a single turn where it uses one skill and arena shows its effect with a random chance <br/>
 
@@ -134,7 +134,7 @@ with another up to 4 units in a turn-based fashion. The combat is divided into d
 <b> Project: - [Object Oriented Programming](https://github.com/yasemxn/lcd-screen) </b> <br/>
 
 <b> The Supply and Network Rollout of Mobile Network Equipment​ (Nokia)</b> <br/>
-_December 2019 - February 2020_
+_December 2019 - February 2020_ <br/>
 Along the 400 km's railway between the cities A and B, we provided a private mobile network which enables voice, data and train communication services. Coverage and quality is not disrupted in both 2 tunnels.
 
 <b> Skills: </b> _C++, Object Oriented Programming_ <br/>
