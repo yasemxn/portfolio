@@ -142,7 +142,7 @@ Along the 400 km's railway between the cities A and B, we provided a private mob
 
 <h2>Publications</h2>
 
-Karaca, Y., Derias, D., & Sarsar, G. (2023, December 12). AI - Powered Procedural Content Generation: Enhancing NPC Behaviour for an Immersive Gaming Experience. https://doi.org/10.31234/osf.io/8pt4q
+Karaca, Y., Derias, D., & Sarsar, G. (2023, December 12). AI - Powered Procedural Content Generation: Enhancing NPC Behaviour for an Immersive Gaming Experience. [https://doi.org/10.31234/osf.io/8pt4q](https://osf.io/preprints/psyarxiv/8pt4q)
 
 
 
