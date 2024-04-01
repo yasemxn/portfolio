@@ -2,6 +2,8 @@ title: Yasemin Karaca
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #contact: Bournemouth/England <br/> yaseminxkaraca@gmail.com <br/>
-description: <b> Contact: </b> <br/> Bournemouth/England <br/> yaseminxkaraca@gmail.com <br/>
+#description: <b> Contact: </b> <br/> Bournemouth/England <br/> yaseminxkaraca@gmail.com <br/>
 #show_downloads: true
+address: "Bournemouth/England"
+skills: "**C++**"
 theme: jekyll-theme-minimal
