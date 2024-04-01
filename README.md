@@ -5,7 +5,7 @@
 * Bahçeşehir University | BSc. in Computer Engineering _(2018 - 2023)_
 
 ### Experience
-* Junior Software Developer • Intern • Orion Innovation Inc.
+* Junior Software Developer | Intern | Orion Innovation Inc.</b>
 • Doing front-end developments for the iOS mobile app with Swift on Xcode.
 • Developing a chat application with Firebase.
 • Supporting improvement, bugfix and unit test.
