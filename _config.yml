@@ -1,10 +1,4 @@
 title: Yasemin Karaca
-logo: assets/img/img.jpg
-#description: text below image
-#contact: Bournemouth/England <br/> yaseminxkaraca@gmail.com <br/>
-#description: <b> Contact: </b> <br/> Bournemouth/England <br/> yaseminxkaraca@gmail.com <br/>
+#logo: assets/img/img.jpg
 description: Bournemouth/England, yaseminxkaraca@gmail.com
-#address: "Bournemouth/England"
-#email: "yaseminxkaraca [at] gmail [dot] com"
-#show_downloads: true
 theme: jekyll-theme-minimal
