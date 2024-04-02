@@ -41,7 +41,7 @@ The goal is to find optimal routing paths from cars to base stations at either e
 
 <b> Skills: </b> _Python, Data Analysis_ <br/>
 
-<b> Project: - [Search and Optimisation](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Search and Optimisation](https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb) </b> <br/>
 
 <b> Constructor Robot Given a Map of Buildings </b> <br/>
 _November 2022 - June 2023_ <br/>
@@ -53,11 +53,11 @@ The project's primary goal is to create structures of various heights using the 
 
 <b> Chat Application </b> <br/>
 _February 2022 - June 2022_ <br/>
-A chat application was developed using Swift and...
+Developed a real-time chat application using Swift UI and Firebase. The app featured user registration and authentication through Firebase Authentication, a modern Swift UI interface for chat conversations and settings, real-time messaging functionality integrated with Firebase Realtime Database or Cloud Firestore, and user-specific databases for storing and retrieving messages. Key components included secure user authentication, responsive UI design with Swift UI, real-time messaging implementation, user-specific data separation, and profile management. Technologies used were Swift UI, XCode, Firebase Authentication, Firebase Realtime Database/Cloud Firestore, Swift, and Git. <br/>
 
-<b> Skills: </b> _Swift UI, XCode_ <br/>
+<b> Skills: </b> _Swift UI, XCode_, _Firebase_, _Git_ <br/>
 
-<b> Project: - [iOS Development](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [iOS Development](https://github.com/yasemxn/yip-yip) </b> <br/>
 
 <b> Digital Alarm Clock using Arduino Microcontroller </b> <br/>
 _April 2022 - June 2022_ <br/>
@@ -73,7 +73,7 @@ Library Management System is a credible, efficient system for handling large amo
 
 <b> Skills: </b> _SQL_ <br/>
 
-<b> Project: - [Database Management Systems](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Database Management Systems](https://github.com/yasemxn/LibraryManagementDatabase/blob/main/Library%20Database.pdf) </b> <br/>
 
 <b> Question-Answering System </b> <br/>
 _October 2021 - January 2022_ <br/>
@@ -81,7 +81,7 @@ In this project, we implemented a simple question answering algorithm with C++. 
 
 <b> Skills: </b> _C++_ <br/>
 
-<b> Project: - [Algorithm Analysis](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Algorithm Analysis](https://github.com/yasemxn/Question-Answering-System) </b> <br/>
 
 <b> Reader - Writer Problem </b> <br/>
 _October 2021 - January 2022_ <br/>
@@ -89,7 +89,7 @@ A solution to readers-writers problem in which several processes (readers and wr
 
 <b> Skills: </b> _Java_ <br/>
 
-<b> Project: - [Data](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Operating Systems](https://github.com/yasemxn/Reader-Writer-Problem) </b> <br/>
 
 <b> P2P File Sharing Application </b> <br/>
 _April 2021 - May 2021_ <br/>
@@ -106,7 +106,7 @@ In this project, we implemented a simple JAVA game with the following scenario: 
 
 <b> Skills: </b> _Java_ <br/>
 
-<b> Project: - [Advanced Programming](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Advanced Programming](https://github.com/yasemxn/Space-War-Game) </b> <br/>
 
 <b> Top 10 Frequent Words </b> <br/>
 _January 2021 - February 2021_
@@ -114,15 +114,13 @@ An C++ console application which reads files from a document and finds top 10 fr
 
 <b> Skills: </b> _C++_ <br/>
 
-<b> Project: - [Data Structures](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Project: - [Data Structures and Algorithms](https://github.com/yasemxn/top10frequentwords) </b> <br/>
 
 <b> Health Maintenance System</b> <br/>
 _October 2020 - January 2021_ <br/>
 This project is a computer system that will be used in the hospitals. HealthCare is a practice management software for opticians, optometrist and ophthalmologist, which leads to smooth working of eye care organization. “Health Care Maintenance” provides automated case management, patient scheduling, diagnosis notes, electronic mail integration to remind patient about their appointment, electronic revisit letter with paperless environment, Point of Sales (POS), inventory for spectacles, lenses, and sundries and unlimited custom and pre-built reports.
 
-<b> Skills: </b> __ <br/>
-
-<b> Project: - [Software Development](https://github.com/yasemxn/lcd-screen) </b> <br/>
+<b> Skills: </b> _Software Development_, _UX Design_, _Project Management_ <br/>
 
 <b> Smashing Four Simulator </b> <br/>
 _March 2020 - June 2020_ <br/>
@@ -131,13 +129,7 @@ with another up to 4 units in a turn-based fashion. The combat is divided into d
 
 <b> Skills: </b> _C++, Object Oriented Programming_ <br/>
 
-<b> Project: - [Object Oriented Programming](https://github.com/yasemxn/lcd-screen) </b> <br/>
-
-<b> The Supply and Network Rollout of Mobile Network Equipment​ (Nokia)</b> <br/>
-_December 2019 - February 2020_ <br/>
-Along the 400 km's railway between the cities A and B, we provided a private mobile network which enables voice, data and train communication services. Coverage and quality is not disrupted in both 2 tunnels.
-
-<b> Skills: </b> _C++, Object Oriented Programming_ <br/>
+<b> Project: - [Object Oriented Programming](https://github.com/yasemxn/Smashing-Four-Simulator) </b> <br/>
 
 
 <h2>Publications</h2>
