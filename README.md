@@ -40,7 +40,7 @@ _March 2024 - May 2024_ <br/>
 
 In this project, I employed a variety of artificial intelligence (AI) techniques to develop an advanced system using the IMDb dataset aimed at enhancing user experience by providing personalised movie recommendations. The project focused on integrating multiple AI models including collaborative filtering algorithms like cosine similarity, K-Nearest Neighbors, and advanced matrix factorisation methods like Singular Value Decomposition and neural network approaches like Neural Collaborative Filtering. Additionally, the system utilised content-based filtering to recommend movies based on their attributes, and hybrid approaches that combine the strengths of both methods. I implemented these models to analyse user behaviour and preferences effectively, managing to handle large datasets and improve recommendation accuracy as shown through metrics such as RMSE, MAE, precision, recall, and F1-score. This project highlighted my capabilities in handling complex AI algorithms and large datasets, contributing to a better understanding of user preferences in digital media consumption.
 
-<b> Skills: </b> _Python, Data Analysis, PyTorch, Surprise, Tensorflow, Machine Learning_ 
+<b> Skills: </b> _Python, Data Analysis, PyTorch, Surprise, Tensorflow, Machine Learning_ <br/>
 <b> Project: - [Movie Recommendation System](https://github.com/yasemxn/movie-recommendation-system/blob/main/Code_AI_Project_Yasemin.ipynb) </b> <br/>
 
 <b> Data Processing and Analytics</b> <br/>
@@ -48,7 +48,7 @@ _March 2024 - May 2024_ <br/>
 
 For this project, I played a pivotal role in designing and implementing a multifaceted database system from an initial Entity-Relationship model to its realization in SQL, MongoDB, and Neo4J, focused on art gallery management. My responsibilities included crafting and evaluating numerous SQL and MongoDB test cases to ensure database functionality, enhancing data retrieval efficiency, and system robustness. Additionally, I applied advanced machine learning techniques, such as neural networks and random forests, to analyse datasets, performed feature selection, and employed PCA for dimensionality reduction, which significantly optimized model performance. My active participation in team discussions and detailed report documentation ensured that the project met academic standards and facilitated effective knowledge transfer.
 
-<b> Skills: </b> _Python, Data Analysis, SQL, MongoDB, Database Management, Neo4J_ 
+<b> Skills: </b> _Python, Data Analysis, SQL, MongoDB, Database Management, Neo4J_ <br/>
 <b> Project: - [Data Processing and Analytics](https://github.com/yasemxn/data-processing-and-analytics/blob/main/DPA_Project_Report_Final%5B1%5D%20(1).pdf) </b> <br/>
 
 
