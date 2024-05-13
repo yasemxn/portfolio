@@ -18,19 +18,19 @@ _(2018 - 2023)_ <br/>
 
 <b>Junior Software Developer | Intern | Orion Innovation Inc.</b> <br/>
 _February 2022 - June 2022_ <br/>
-• Doing front-end developments for the iOS mobile app with Swift on Xcode. <br/>
-• Developing a chat application with Firebase.<br/>
-• Supporting improvement, bugfix and unit test.<br/>
-• Researching and reporting on peer-to-peer connections and finding the<br/>
-most efficient way to optimise.<br/>
+• Led the front-end development of an iOS mobile application using Swift in Xcode, enhancing user interface and
+experience. <br/>
+• Developed a chat application with Firebase, improving real-time communication capabilities.<br/>
+• Supported improvement, bugfix and unit test, ensuring high software quality and reliability.<br/>
+• Conducted research on peer-to-peer connections to optimize network efficiency and performance.<br/>
 
 <b> Junior Software Developer | Intern | Ambeent AI Inc.</b> <br/>
 _February 2021 - April 2021_ <br/>
-• Running user test analysis on the optimised modems to figure out
-improvement areas.<br/>
-• Supporting back-end developments for the Google Chrome extension app.<br/>
-• Preparing daily and weekly reports.<br/>
-• Doing extensive research and reporting on modem models.<br/>
+• Executed user test analysis on optimised modems, identifying key areas for enhancement.
+<br/>
+• Supported backend development for a Google Chrome extension app, enhancing functionality and user interaction.<br/>
+• Prepared daily and weekly reports, ensuring consistent project tracking and stakeholder updates.<br/>
+• Performed extensive research on modem models, delivering insights that informed product development strategies.<br/>
 
 
 <h2>Projects</h2>
