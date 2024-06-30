@@ -16,13 +16,20 @@ _(2018 - 2023)_ <br/>
 
 <h2>Work Experience</h2>
 
+<b>Full Stack Developer | Intern | Karaca Civata Inc.</b> <br/>
+_Dec 2022 - June 2023_ <br/>
+• Developed and launched a fully responsive company website using HTML, CSS, and JavaScript, enhancing the online presence and user experience.<br/>
+• Implemented a robust database management system using MySQL, which improved data accessibility and security.<br/>
+• Designed and integrated an inventory management system that automated stock tracking and order processing, reducing manual workload by 40%.<br/>
+• Collaborated with the IT team to optimise the website's performance and security, resulting in a 30% increase in page load speed and a significant reduction in potential vulnerabilities.<br/>
+
 <b>Junior Software Developer | Intern | Orion Innovation Inc.</b> <br/>
 _February 2022 - June 2022_ <br/>
 • Led the front-end development of an iOS mobile application using Swift in Xcode, enhancing user interface and
 experience. <br/>
-• Developed a chat application with Firebase, improving real-time communication capabilities.<br/>
+• Developed a chat application with Firebase using the MVC architecture, improving real-time communication capabilities and ensuring maintainable and scalable code.<br/>
 • Supported improvement, bugfix and unit test, ensuring high software quality and reliability.<br/>
-• Conducted research on peer-to-peer connections to optimize network efficiency and performance.<br/>
+• Conducted research on peer-to-peer connections to optimise network efficiency and performance.<br/>
 
 <b> Junior Software Developer | Intern | Ambeent AI Inc.</b> <br/>
 _February 2021 - April 2021_ <br/>
