@@ -5,7 +5,7 @@
 <b>Bournemouth University</b> <br/>
 MSc. in Data Science and Artificial Intelligence <br/>
 _Bournemouth, England_ <br/>
-_(2023 - Present)_ <br/>
+_(2023 - Graduating on September 2024)_ <br/>
 
 <b>Bahçeşehir University</b> <br/>
 BSc. in Computer Engineering <br/>
@@ -32,8 +32,8 @@ experience. <br/>
 • Conducted research on peer-to-peer connections to optimise network efficiency and performance.<br/>
 
 <b> Junior Software Developer | Intern | Ambeent AI Inc.</b> <br/>
-_February 2021 - April 2021_ <br/>
-• Executed user test analysis on optimised modems, identifying key areas for enhancement.
+_February 2021 - June 2021_ <br/>
+• Executed user test analysis on optimised modems, identifying key areas for improvement. 
 <br/>
 • Supported backend development for a Google Chrome extension app, enhancing functionality and user interaction.<br/>
 • Prepared daily and weekly reports, ensuring consistent project tracking and stakeholder updates.<br/>
