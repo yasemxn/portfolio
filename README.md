@@ -5,7 +5,8 @@
 <b>Bournemouth University</b> <br/>
 MSc. in Data Science and Artificial Intelligence <br/>
 _Bournemouth, England_ <br/>
-_(2023 - Graduating on September 2024)_ <br/>
+_(2023 - Graduating on September 2024 with Distinction)_ <br/>
+_Dissertation sponsored by Google_ <br/>
 
 <b>Bahçeşehir University</b> <br/>
 BSc. in Computer Engineering <br/>
@@ -41,6 +42,10 @@ _February 2021 - June 2021_ <br/>
 
 
 <h2>Projects</h2>
+
+<b> Generative AI in the Enterprise as a Co-Worker for Tech Support (Google-sponsored Dissertation) </b> <br/>
+In my thesis, sponsored by Google, I developed and implemented AI solutions to assist human agents in managing complex issues, significantly enhancing decision-making and overall customer experience. I utilised the OODA Loop framework to streamline and optimise AI-assisted support processes, leading to notable improvements in efficiency and effectiveness. My work involved extensive analysis and identification of potential problems using AI, enabling proactive support solutions that preemptively addressed customer needs. Moreover I documented and presented my findings on the impact of AI in enterprise support at various industry conferences and in academic publications, contributing to the broader discourse on AI's role in enhancing enterprise-level support systems. This comprehensive approach not only showcased the practical benefits of AI integration but also highlighted its potential for transforming customer support within large organizations. <br/>
+
 
 <b> Movie Recommendation System</b> <br/>
 _March 2024 - May 2024_ <br/>
