@@ -17,14 +17,14 @@ _(2018 - 2023)_ <br/>
 
 <h2>Work Experience</h2>
 
-<b>Full Stack Developer | Intern | Karaca Civata Inc.</b> <br/>
+<b>Data Analyst | KONAK Fasteners</b> <br/>
 _Dec 2022 - June 2023_ <br/>
-• Developed and launched a fully responsive company website using HTML, CSS, and JavaScript, enhancing the online presence and user experience.<br/>
-• Implemented a robust database management system using MySQL, which improved data accessibility and security.<br/>
-• Designed and integrated an inventory management system that automated stock tracking and order processing, reducing manual workload by 40%.<br/>
-• Collaborated with the IT team to optimise the website's performance and security, resulting in a 30% increase in page load speed and a significant reduction in potential vulnerabilities.<br/>
+• Developed and maintained interactive dashboards and reports using Power BI and Tableau, providing actionable insights to support data-driven decision-making across various departments.<br/>
+• Conducted data cleaning, transformation, and validation processes to ensure data accuracy and reliability, utilising SQL and Excel for efficient data management.<br/>
+• Assisted in the creation of data models and performed statistical analysis to identify trends and patterns, contributing to the optimisation of business processes and strategies.<br/>
+• Collaborated with cross-functional teams to collect requirements, define key performance indicators (KPIs), and deliver customised data solutions that align with organisational goals.<br/>
 
-<b>Junior Software Developer | Intern | Orion Innovation Inc.</b> <br/>
+<b> Junior Software Developer | Orion Innovation Inc.</b> <br/>
 _February 2022 - June 2022_ <br/>
 • Led the front-end development of an iOS mobile application using Swift in Xcode, enhancing user interface and
 experience. <br/>
@@ -32,7 +32,7 @@ experience. <br/>
 • Supported improvement, bugfix and unit test, ensuring high software quality and reliability.<br/>
 • Conducted research on peer-to-peer connections to optimise network efficiency and performance.<br/>
 
-<b> Junior Software Developer | Intern | Ambeent AI Inc.</b> <br/>
+<b> Junior Software Developer | Ambeent AI Inc.</b> <br/>
 _February 2021 - June 2021_ <br/>
 • Executed user test analysis on optimised modems, identifying key areas for improvement. 
 <br/>
