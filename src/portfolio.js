@@ -102,12 +102,6 @@ const skills = {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
-          skillName: "Git",
-          fontAwesomeClassname: "logos-git",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
         },
       ],
     },
