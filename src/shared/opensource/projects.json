@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "R_kgDOJWL1-y",
+      "name": "AI_Ticket_Support",
+      "createdAt": "Sep 9, 2024",
+      "url": "https://github.com/yasemxn/dissertation/blob/main/AI_Ticket_Support.ipynb",
+      "description": "A hybrid AI-human model for tech support using the OODA loop framework with XAI methodologies.",
       "isFork": false,
       "languages": [
         {
@@ -13,8 +13,92 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL2-z",
+      "name": "Movie_Recommendation_System",
+      "createdAt": "May 12, 2024",
+      "url": "https://github.com/yasemxn/movie-recommendation-system/blob/main/Code_AI_Project_Yasemin.ipynb",
+      "description": "Developed a movie recommender using IMDb data, combining collaborative filtering and content-based methods to improve accuracy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL3-y",
+      "name": "Data_Processing_and_Analytics",
+      "createdAt": " May 12, 2024",
+      "url": "https://github.com/yasemxn/data-processing-and-analytics/blob/main/DPA_Project_Report_Final%5B1%5D%20(1).pdf",
+      "description": "Designed a database system for art galleries using SQL, MongoDB, Neo4J, and ML techniques like neural networks and PCA.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL5-z",
+      "name": "Blockchain_Digital_Identity",
+      "createdAt": "Aug 19, 2024",
+      "url": "https://github.com/yasemxn/blockchain-digital-identity/blob/main/Blockchain_DigitalIdentity.pdf",
+      "description": "Research project exploring blockchain-based solutions for secure and decentralised digital identity management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Blockchain",
+          "iconifyClass": "simple-icons:blockchain"
+        },
+        {
+          "name": "Cryptography",
+          "iconifyClass": "simple-icons:cryptography"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWOpt-x",
+      "name": "Search_and_Optimisation",
+      "createdAt": "Apr 2, 2024",
+      "url": "https://github.com/yasemxn/Search-and-Optimisation/blob/main/Search_Optimisation_Final%5B1%5D.ipynb",
+      "description": "Optimised car-to-base station routing on a motorway to maximise data rates and minimise latency using Dijkstra’s and Genetic algorithms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
           "name": "Jupyter Notebook",
@@ -23,11 +107,94 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOJWOpt-y",
+      "name": "tellMeApp",
+      "createdAt": "May 23, 2022",
+      "url": "https://github.com/yasemxn/yip-yip/tree/main/yipyip/tellMeApp",
+      "description": "Built a real-time chat app with SwiftUI and Firebase, including authentication, messaging, and profile management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Swift",
+          "iconifyClass": "logos-swift"
+        },
+        {
+          "name": "XCode",
+          "iconifyClass": "logos-xcode"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWOpt-z",
+      "name": "lcd-screen",
+      "createdAt": "Apr 1, 2022",
+      "url": "https://github.com/yasemxn/lcd-screen",
+      "description": "Built a digital alarm clock with an Arduino, featuring temperature display, 12H/24H modes, and time/alarm setup via buttons.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "logos-c"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "logos-arduino"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWOpt-y",
+      "name": "LibraryManagementDatabase",
+      "createdAt": "Sep 21, 2022",
+      "url": "https://github.com/yasemxn/LibraryManagementDatabase/blob/main/Library%20Database.pdf",
+      "description": "Developed a Library Management System with an E-R diagram, database schema, and SQL queries for efficient data management",
+      "isFork": false,
+      "languages": [
+        {}
+      ]
+    },
+    {
+      "id": "R_kgDOJWOpt-x",
+      "name": "Question-Answering-System",
+      "createdAt": "Apr 2, 2022",
+      "url": "https://github.com/yasemxn/Question-Answering-System",
+      "description": "Implemented a C++ question-answering algorithm using string matching. Processes questions, searches answers in a script file, and outputs results in 20–50 ms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "logos-c"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWOyx-a",
+      "name": "Reader-Writer-Problem",
+      "createdAt": "March 5, 2022",
+      "url": "https://github.com/yasemxn/Reader-Writer-Problem",
+      "description": "Solution to the readers-writers problem, ensuring writers' exclusive access and allowing safe simultaneous reading",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Eclipse",
+          "iconifyClass": "logos-eclipse"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWOyx-b",
+      "name": "peer2peer",
+      "createdAt": "June 10, 2022",
+      "url": "https://github.com/yasemxn/peer2peer",
+      "description": "Developed a peer-to-peer network application for distributed file sharing and decentralised communication.",
       "isFork": false,
       "languages": [
         {
@@ -37,86 +204,16 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "R_kgDOJWOyx-c",
+      "name": "Space-War-Game",
+      "createdAt": "May 27, 2022",
+      "url": "https://github.com/yasemxn/Space-War-Game",
+      "description": "Designed and developed a 2D space war game featuring engaging mechanics and a dynamic scoring system.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "C++",
+          "iconifyClass": "logos-c"
         }
       ]
     }

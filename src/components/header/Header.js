@@ -19,6 +19,9 @@ class Header extends Component {
   render() {
     const theme = this.props.theme;
     const link = settings.isSplash ? "/splash" : "home";
+    const resumeLink =
+      "https://drive.google.com/file/d/1BbzYc6xOfhtGXF5qAu361S8_4eLr-UF2/view?usp=sharing"; // Replace with your actual resume link
+
     return (
       <Fade top duration={1000} distance="20px">
         <SeoHeader />
@@ -85,28 +88,16 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
-                <NavLink
-                  to="/opensource"
-                  tag={Link}
-                  activeStyle={{ fontWeight: "bold" }}
-                  style={{ color: theme.text }}
+                <a
+                  href={resumeLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: theme.text, textDecoration: "none" }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Open Source
-                </NavLink>
-              </li>
-              <li>
-                <NavLink
-                  to="/contact"
-                  tag={Link}
-                  activeStyle={{ fontWeight: "bold" }}
-                  style={{ color: theme.text }}
-                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
-                  onMouseOut={(event) => onMouseOut(event)}
-                >
-                  Contact Me
-                </NavLink>
+                  Resume
+                </a>
               </li>
             </ul>
           </header>
@@ -115,4 +106,5 @@ class Header extends Component {
     );
   }
 }
+
 export default Header;
