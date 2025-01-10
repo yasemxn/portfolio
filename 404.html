@@ -4,17 +4,11 @@
     <meta charset="utf-8" />
     <title>Redirecting...</title>
     <script type="text/javascript">
-      // Redirect all unknown routes to the React app
+      // Redirect all unknown routes to the React app with hash routing
       var l = window.location;
-      l.replace(
-        l.protocol +
-        "//" +
-        l.hostname +
-        (l.port ? ":" + l.port : "") +
-        "/portfolio/?" +
-        l.pathname.slice(1) +
-        l.search +
-        l.hash
+      var path = l.pathname.replace('/portfolio', ''); // 'portfolio' kısmını kaldır
+      window.location.replace(
+        l.protocol + "//" + l.hostname + (l.port ? ":" + l.port : "") + "/portfolio/#" + path + l.search
       );
     </script>
   </head>
