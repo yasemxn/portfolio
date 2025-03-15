@@ -1,4 +1,6 @@
-.raw_logo {
-  height: 305;
-  width: 440;
+.logo {
+  width: auto; /* Orijinal en-boy oranını korur */
+  max-width: 150px; /* Mobilde aşırı büyük olmaması için */
+  height: auto;
+  image-rendering: crisp-edges; /* Pikselleşmeyi azaltır */
 }
